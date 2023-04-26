@@ -1,6 +1,6 @@
 # ![Abdoul](https://github.com/emicheldev/emicheldev/blob/master/twitter-min.jpg)
 
-### Hey there 👋
+### Hi there 👋
 
 I'm a full stack developer looking to solve real world problems. I have a passion to learn and share my knowledge with others as publicly as possible.
 If you've found value in something I've created, feel free to call me [@abdoul_2023](https://twitter.com/Abdoul_2023) or give me a little ♥ on [mail ](mailto:abdoulramanediallo44@gmail.com). Do not hesitate to contact me in case you would like to join me as well.
