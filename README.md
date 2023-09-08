@@ -1,12 +1,13 @@
 # ![Abdoul](https://github.com/emicheldev/emicheldev/blob/master/twitter-min.jpg)
 <h1 align="center">Hi 👋, I'm Abdourahmane Diallo</h1>
-<h3 align="center">I'm a full-stack developer looking to solve real-world problems. I have a passion to learn and share my knowledge with others as publicly as possible. If you've found value in something I've created, feel free to reach out to me [@abdoul_2023](https://twitter.com/Abdoul_2023) or give me a little ♥ on [mail ](mailto:abdoulramanediallo44@gmail.com). Do not hesitate to contact me in case you would like to join me as well.</h3>
+<h3 align="center">I'm a full-stack developer looking to solve real-world problems. I have a passion to learn and share my knowledge with others as publicly as possible. If you've found value in something I've created, feel free to reach out to me or give me a little ♥ on my projects. Do not hesitate to contact me in case you would like to join me as well.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aradradev&label=Profile%20views&color=0e75b6&style=flat" alt="aradradev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aradradev" alt="aradradev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abdoul_2023" target="blank"><img src="https://img.shields.io/twitter/follow/abdoul_2023?logo=twitter&style=for-the-badge" alt="abdoul_2023" /></a> </p>
+<img align='right' alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🔭 I’m currently working on [School Library App](https://github.com/aradradev/school-library-app)
 
