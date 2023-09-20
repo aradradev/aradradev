@@ -9,19 +9,19 @@
 <p align="left"> <a href="https://twitter.com/abdoul_2023" target="blank"><img src="https://img.shields.io/twitter/follow/abdoul_2023?logo=twitter&style=for-the-badge" alt="abdoul_2023" /></a> </p>
 <img align='right' alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🔭 I’m currently working on [School Library App](https://github.com/aradradev/school-library-app)
+- 🔭 I’m currently working on [Blog App](https://github.com/aradradev/Blog-app)
 
-- 🌱 I’m currently learning **React, Ruby, RoR, TDD on testing**
+- 🌱 I’m currently learning **React, Ruby, RoR, and TDD on testing**
 
 - 👯 I’m looking to collaborate on [Open Source Project](https://github.com/aradradev/first-contributions)
 
-- 🤝 I’m looking for help with [getting my first job in the IT](https://www.linkedin.com/in/abdul-jalloh)
+- 🤝 I’m looking for help with [Getting my first job in IT](https://www.linkedin.com/in/abdul-jalloh)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aradradev?tab=repositories](https://github.com/aradradev?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@aradradev](https://medium.com/@aradradev)
 
-- 💬 Ask me about **react, tailwinds,**
+- 💬 Ask me about **react, tailwinds, Ruby, SQL, Ruby on Rails**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abdul-jalloh**
 
