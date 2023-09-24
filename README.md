@@ -1,5 +1,5 @@
 # ![Abdoul](https://github.com/emicheldev/emicheldev/blob/master/twitter-min.jpg)
-<h1 align="center">Hi 👋, I'm Abdourahmane Diallo</h1>
+<h1 align="center" color="red">Hi 👋, I'm Abdourahmane Jalloh </h1>
 <h3 align="center">I'm a full-stack developer looking to solve real-world problems. I have a passion to learn and share my knowledge with others as publicly as possible. If you've found value in something I've created, feel free to reach out to me or give me a little ♥ on my projects. Do not hesitate to contact me in case you would like to join me as well.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aradradev&label=Profile%20views&color=0e75b6&style=flat" alt="aradradev" /> </p>
@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://twitter.com/abdoul_2023" target="blank"><img src="https://img.shields.io/twitter/follow/abdoul_2023?logo=twitter&style=for-the-badge" alt="abdoul_2023" /></a> </p>
 <img align='right' alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🔭 I’m currently working on [Blog App](https://github.com/aradradev/Blog-app)
+- 🔭 I’m currently working on the controller this week in my [Blog App](https://github.com/aradradev/Blog-app)
 
-- 🌱 I’m currently learning **React, Ruby, RoR, and TDD on testing**
+- 🌱 I’m currently learning **React, Ruby, RoR, SQL, Testing, DS and Algorithms**
 
 - 👯 I’m looking to collaborate on [Open Source Project](https://github.com/aradradev/first-contributions)
 
