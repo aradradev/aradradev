@@ -50,3 +50,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aradradev&show_icons=true&locale=en" alt="aradradev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aradradev&" alt="aradradev" /></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aradradev&theme=solarized_dark) 
