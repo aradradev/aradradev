@@ -230,15 +230,15 @@
  
 <!-- START Learning Tecnologias SECTION -->	
 <p align="center">
- <h2 align="center">Learning Technologies</h2>
+ <h2 align="center">Learning Tecnologias</h2>
 
 
 |                                                          |                   |                                      |                                                      |                 |                                      |
 | -------------------------------------------------------- | ----------------- | ------------------------------------ | ---------------------------------------------------- | --------------- | ------------------------------------ |
-| ![typescript](./img/technologies/typescript.png)               | TypeScript        | ![60%](https://progress-bar.dev/80/) | ![node](./img/technologies/node.png)                       | Node            | ![70%](https://progress-bar.dev/80/) |
-| ![express](./img/technologies/express.png)                     | Express           | ![30%](https://progress-bar.dev/80/) | ![nest](./img/technologies/nest.png)                       | Nest            | ![80%](https://progress-bar.dev/80/) |
+| ![typescript](./img/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./img/technologies/node.png)                       | Node            | ![80%](https://progress-bar.dev/80/) |
+| ![express](./img/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./img/technologies/nest.png)                       | Nest            | ![80%](https://progress-bar.dev/80/) |
 | ![graphql](./img/technologies/graphql.png)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./img/technologies/typeorm.png)                 | TypeORM         | ![80%](https://progress-bar.dev/80/) |
-| ![ruby](./img/technologies/ruby.jpg)                       | Ruby            | ![80%](https://progress-bar.dev/80/) | ![rails](./img/technologies/rails.png)             | Rails       | ![80%](https://progress-bar.dev/80/) |
+| ![prisma](./img/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) | ![sequelize](./img/technologies/sequelize.png)             | Sequelize       | ![80%](https://progress-bar.dev/80/) |
 | ![mongoose](./img/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./img/technologies/postgresql.png)           | PostgreSQL      | ![80%](https://progress-bar.dev/80/) |
 | ![mongodb](./img/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![jest](./img/technologies/jest.png)                       | Jest            | ![80%](https://progress-bar.dev/80/) |
 | ![mocha](./img/technologies/mocha.png)                         | Mocha             | ![80%](https://progress-bar.dev/80/) | ![docker](./img/technologies/docker.png)                   | Docker          | ![60%](https://progress-bar.dev/60/) |
@@ -593,13 +593,13 @@
   <h2 align="center">Contact Me </h2>
   <h2>My Website</h2>
   <a href="https://aradradev.github.io/abdulsportfolio/" target="_blank">
-    <img align="left" alt="Jalloh Abdourahmane | Website" width="26px" src="https://github.com/aradradev/aradradev/blob/main/world-wide-web.svg" />
+    <img align="left" alt="Jalloh Abdourahmane | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
    </a>
    <a href="https://medium.com/@aradradev" target="_blank">
-    <img align="left" alt="Jalloh Abdourahmane | Website" width="26px" src="https://github.com/aradradev/aradradev/blob/main/world-wide-web.svg" />
+    <img align="left" alt="Jalloh Abdourahmane | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
    </a>
    <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" target="_blank">
-    <img align="left" alt="Jalloh Abdourahmane | Website" width="26px" src="https://github.com/aradradev/aradradev/blob/main/world-wide-web.svg" />
+    <img align="left" alt="Jalloh Abdourahmane | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
    </a>
  <br>
   </section>
