@@ -9,14 +9,14 @@
 
 <div align="center">
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum.+My+name+is+Jalloh.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World.+My+name+is+Jalloh.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
 		  
 </div>
 
 	  
 <!-- Start My Basic Information -->
 <section>
-<!--    <h1 align="center">Assalamu-Alaikum</h1>	
+<!--    <h1 align="center">Hello-World</h1>	
    <div align="center">
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
   </div>
@@ -200,11 +200,10 @@
  
 </p>
 <p align="center">
-<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aradradev/competition/"; /> -->
-  ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/discussion/light)
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/discussion/light" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
