@@ -9,7 +9,7 @@
 
 <div align="center">
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum.+My+name+is+Jalloh+Abdourahmane.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum.+My+name+is+Jalloh.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
 		  
 </div>
 
@@ -218,10 +218,8 @@
         <h2 align="center">I worked on last week  
 <!--             <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30>  -->
         </h2>
-         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aradradev&range=last_7_days&theme=highcontrast&hide_border=false&layout=" alt="Wakatime Stats" width="480" />
-        <a href="https://wakatime.com/@b10ddb7f-1a29-4243-9642-69972f83f35f">
-             <img src="https://wakatime.com/badge/user/b10ddb7f-1a29-4243-9642-69972f83f35f.svg" alt="Total time coded since April 19 2023" />
-        </a>
+         <img src="https://wakatime.com/badge/user/6a253991-1b6b-461a-ae9c-d285fa60c105.svg" alt="Wakatime Stats" width="480" />
+        <a href="https://wakatime.com/@6a253991-1b6b-461a-ae9c-d285fa60c105"><img src="https://wakatime.com/badge/user/6a253991-1b6b-461a-ae9c-d285fa60c105.svg" alt="Total time coded since Jun 7 2023" /></a>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
