@@ -42,8 +42,8 @@
 </div>
 
 <div align="center">
-<p align="center">counting of visitors to this page in this section started from Jan 01, 2023</p>
-<a href="https://info.flagcounter.com/CHgw"><img src="https://s11.flagcounter.com/count2/CHgw/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="10"></a>
+<p align="center">counting of visitors to this page in this section started from Sep 27, 2023</p>
+<a href="https://info.flagcounter.com/iZM9"><img src="https://s11.flagcounter.com/countxl/iZM9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="10"></a>
 </div>	  
 	  
 <!-- <p align="center">
