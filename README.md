@@ -573,7 +573,8 @@
 	
 
 <p align="center">
-[![Jalloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aradradev&bg_color=2a1d24&color=9e4c98&line=00e061&point=272626&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aradradev&bg_color=2a1d24&color=9e4c98&line=00e061&point=272626&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" align="center" />
+
 </p>
 	
 <!-- <p>
