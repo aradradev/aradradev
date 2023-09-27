@@ -179,10 +179,10 @@
                 <td><img alt=Forks
                         src="https://img.shields.io/github/forks/aradradev/Blog-app?style=flat-square&labelColor=343b41">
                 </td>
-<!--                 <td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues
+<!--                 <td><a href=https://github.com/aradradev/Blog-app/issues target=_blank><img alt=Issues
                             src="https://img.shields.io/github/issues/aradradev/Blog-app?style=flat-square&labelColor=343b41"></a>
                 </td>   -->
-                <td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"
+                <td><a href=https://github.com/aradradev/Blog-app/pulls target=_blank><img alt="Pull Requests"
                             src="https://img.shields.io/github/issues-pr/aradradev/Blog-app?style=flat-square&labelColor=343b41"></a>
                 </td> 
             </tr>
