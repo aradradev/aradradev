@@ -21,17 +21,15 @@
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
   </div>
    <h2 align="center">I am Jalloh Abdourahmane✨</h2> -->
-  <p>Hey there! 👋 I'm Jalloh Abdourahmane, and I'm originally from Guinea, a fantastic place with diverse experiences. 🇬🇳
+  <p>Hey there! 👋 I'm Jalloh Abdourahmane, originally from the captivating landscapes of Guinea 🇬🇳. I'm passionate about software development, with a focus on JavaScript, React, Ruby, and Ruby on Rails.
 
-I spent my childhood in the lively city of Conakry, where I was surrounded by cool cultures and lots of fun stuff. But guess what? I've always been the adventurous type, always wanting to explore new places. So, when the opportunity came to dive into remote software development, I jumped right in, and it's been a blast!
+During my coding journey, I've had the opportunity to work on exciting projects like Blog-App, where I created and collaborated with developers around the world. It's these hands-on experiences that fuel my enthusiasm for turning ideas into code.
 
-One of the most exciting parts of my journey started back in high school when I got into coding. It was like opening a treasure chest of endless possibilities. I realized that I could use my natural curiosity to create cool things with lines of code. From that point on, coding became not just a skill but an awesome way for me to bring my ideas to life and make a positive impact.
+Beyond coding, I'm an avid reader, and it was through books that I discovered my love for software. "The Structure of Hardware and Software" set me on this incredible path, and my ever-expanding book collection continues to inspire me.
 
-Now, let me tell you about my family. My dad is a teacher and also does some selling on the side, while my mom keeps our home running smoothly. They've always been there for me, cheering me on and teaching me important life lessons. Their support means the world to me.
+My family plays a significant role in my life my dad, a dedicated teacher and seller, and my mom, the heart of our home. Their support and values have shaped my journey and my commitment to making a positive impact.
 
-When I'm not diving into techy stuff, I'm probably engrossed in a good book. I remember how my coding journey started with a book called "The Structure of Hardware and Software." It's amazing how one book can spark a lifelong passion. My collection of books keeps growing, and I'm always eager to discover new stories and ideas.
-
-As I keep this incredible journey going, I'm not only excited about all the cool tech possibilities but also about meeting awesome people like you. If you ever have questions or just want to chat about anything, don't hesitate to reach out. Let's explore this exciting journey together! 🌟</p>
+As I continue to explore the limitless possibilities in the tech world, I'm excited to connect with fellow developers, share knowledge, and collaborate on exciting projects. Feel free to reach out if you'd like to chat or collaborate. Let's embark on this coding adventure together! 🚀 </p>
 
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
@@ -52,7 +50,7 @@ As I keep this incredible journey going, I'm not only excited about all the cool
 </div>
 
 <div align="center">
-<p align="center">counting of visitors to this page in this section started from Sep 27, 2023</p>
+<p align="center">Counting of visitors to this page in this section started from Sep 27, 2023</p>
 <a href="https://info.flagcounter.com/iZM9"><img src="https://s11.flagcounter.com/countxl/iZM9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="10"></a>
 </div>	  
 	  
