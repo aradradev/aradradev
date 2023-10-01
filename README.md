@@ -180,7 +180,7 @@ As I continue to explore the limitless possibilities in the tech world, I'm exci
 		 <tr>
                 <td align=center>5</td>
                 <td><a href="https://github.com/aradradev/Blog-app" target="_blank"><b>Blog App</b></a></td>
-                <td align=center>Ruby on Rails, CSS</td>
+                <td align=center>Ruby on Rails, TailwindCSS</td>
                 <td><img alt=Stars
                         src="https://img.shields.io/github/stars/aradradev/Blog-app?style=flat-square&labelColor=343b41">
                 </td>
