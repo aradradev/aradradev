@@ -23,7 +23,7 @@
    <h2 align="center">I am Jalloh Abdourahmane✨</h2> -->
   <p>Hey there! 👋 I'm Jalloh Abdourahmane, originally from the captivating landscapes of Guinea 🇬🇳. I'm passionate about software development, with a focus on JavaScript, React, Ruby, and Ruby on Rails.
 
-During my coding journey, I've had the opportunity to work on exciting projects like Blog-App, where I created and collaborated with developers around the world. It's these hands-on experiences that fuel my enthusiasm for turning ideas into code.
+During my coding journey, I've had the opportunity to work on exciting projects like:| Recipe-app, Budget-app, and last but not least a Car-renting platform |, where I created and collaborated with developers around the world. It's these hands-on experiences that fuel my enthusiasm for turning ideas into code.
 
 Beyond coding, I'm an avid reader, and it was through books that I discovered my love for software. "The Structure of Hardware and Software" set me on this incredible path, and my ever-expanding book collection continues to inspire me.
 
