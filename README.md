@@ -128,7 +128,7 @@ As I continue to explore the limitless possibilities in the tech world, I'm exci
             </tr>
             <tr>
                 <td align=center>2</td>
-                <td><a href="https://github.com/aradradev/bookstore" target="_blank"><b>Budget-app</b></a></td>
+                <td><a href="https://github.com/aradradev/Budget-app" target="_blank"><b>Budget-app</b></a></td>
                 <td align=center>HTML, CSS, JavaScript, React</td>
                 <td><img alt=Stars
                         src="https://img.shields.io/github/stars/aradradev/Budget-app?style=flat-square&labelColor=343b41">
