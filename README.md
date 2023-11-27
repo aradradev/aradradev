@@ -111,36 +111,36 @@ As I continue to explore the limitless possibilities in the tech world, I'm exci
         <tbody>
             <tr>
                 <td align=center>1</td>
-                <td><a href="https://github.com/aradradev/abdulsportfolio" target="_blank"><b>Portfolio</b></a></td>
+                <td><a href="https://abdoul-jalloh.netlify.app/" target="_blank"><b>Portfolio</b></a></td>
                 <td align=center>HTML, CSS</td>
                 <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/aradradev/abdulsportfolio?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/stars/aradradev/portfolio-website?style=flat-square&labelColor=343b41">
                 </td>
                 <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/aradradev/abdulsportfolio?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/forks/aradradev/portfolio-website?style=flat-square&labelColor=343b41">
                 </td>
 <!--                 <td><a href=https://github.com/aradradev/abdulsportfolio/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/aradradev/abdulsportfolio?style=flat-square&labelColor=343b41"></a>
+                            src="https://img.shields.io/github/issues/aradradev/portfolio-website?style=flat-square&labelColor=343b41"></a>
                 </td> -->
                 <td><a href=https://github.com/aradradev/abdulsportfolio/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/aradradev/abdulsportfolio?style=flat-square&labelColor=343b41"></a>
+                            src="https://img.shields.io/github/issues-pr/aradradev/portfolio-website?style=flat-square&labelColor=343b41"></a>
                 </td> 
             </tr>
             <tr>
                 <td align=center>2</td>
-                <td><a href="https://github.com/aradradev/bookstore" target="_blank"><b>Bookstore</b></a></td>
+                <td><a href="https://github.com/aradradev/bookstore" target="_blank"><b>Budget-app</b></a></td>
                 <td align=center>HTML, CSS, JavaScript, React</td>
                 <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/aradradev/bookstore?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/stars/aradradev/Budget-app?style=flat-square&labelColor=343b41">
                 </td>
                 <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/aradradev/bookstore?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/forks/aradradev/Budget-app?style=flat-square&labelColor=343b41">
                 </td>
 <!--                 <td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/aradradev/bookstore?style=flat-square&labelColor=343b41"></a>
+                            src="https://img.shields.io/github/issues/aradradev/Budget-app?style=flat-square&labelColor=343b41"></a>
                 </td>   -->
                 <td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/aradradev/bookstore?style=flat-square&labelColor=343b41"></a>
+                            src="https://img.shields.io/github/issues-pr/aradradev/Budget-app?style=flat-square&labelColor=343b41"></a>
                 </td> 
             </tr>
             <tr>
