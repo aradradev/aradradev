@@ -27,7 +27,7 @@ During my coding journey, I've had the opportunity to work on exciting projects 
 
 Beyond coding, I'm an avid reader, and it was through books that I discovered my love for software. "The Structure of Hardware and Software" set me on this incredible path, and my ever-expanding book collection continues to inspire me.
 
-My family plays a significant role in my life my dad, a dedicated teacher and seller, and my mom, the heart of our home. Their support and values have shaped my journey and my commitment to making a positive impact.
+My family plays a significant role in my life my Dad, a dedicated teacher, and my Mom, the heart of our home. Their support and values have shaped my journey and my commitment to making a positive impact.
 
 As I continue to explore the limitless possibilities in the tech world, I'm excited to connect with fellow developers, share knowledge, and collaborate on exciting projects. Feel free to reach out if you'd like to chat or collaborate. Let's embark on this coding adventure together! 🚀 </p>
 
