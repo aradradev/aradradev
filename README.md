@@ -21,15 +21,21 @@
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
   </div>
    <h2 align="center">I am Jalloh Abdourahmane✨</h2> -->
-  <p>Hey there! 👋 I'm Jalloh Abdourahmane, originally from the captivating landscapes of Guinea 🇬🇳. I'm passionate about software development, with a focus on JavaScript, React, Ruby, and Ruby on Rails.
-
-During my coding journey, I've had the opportunity to work on exciting projects like:| Recipe-app, Budget-app, and last but not least a Car-renting platform |, where I created and collaborated with developers around the world. It's these hands-on experiences that fuel my enthusiasm for turning ideas into code.
-
-Beyond coding, I'm an avid reader, and it was through books that I discovered my love for software. "The Structure of Hardware and Software" set me on this incredible path, and my ever-expanding book collection continues to inspire me.
-
-My family plays a significant role in my life my Dad, a dedicated teacher, and my Mom, the heart of our home. Their support and values have shaped my journey and my commitment to making a positive impact.
-
-As I continue to explore the limitless possibilities in the tech world, I'm excited to connect with fellow developers, share knowledge, and collaborate on exciting projects. Feel free to reach out if you'd like to chat or collaborate. Let's embark on this coding adventure together! 🚀 </p>
+  <p style="font-size: 1.1em; color: #333;">
+    Hey there! 👋 I'm <strong>Jalloh Abdourahmane</strong>, originally from the beautiful landscapes of Guinea 🇬🇳. I'm really into <span style="color: #e44d26;">software development</span>, with a special focus on <span style="color: #61dafb;">JavaScript</span>, <span style="color: #61dafb;">React</span>, <span style="color: #cc342d;">Ruby</span>, and <span style="color: #cc342d;">Ruby on Rails</span>.
+</p>
+<p style="font-size: 1.1em; color: #333;">
+    In my coding journey, I've had a blast working on projects like <strong>Recipe-app</strong>, <strong>Budget-app</strong>, and a <strong>Car-renting platform</strong>. These projects weren't just about code; they were collaborations with developers from around the world, and that's what keeps my excitement alive.
+</p>
+<p style="font-size: 1.1em; color: #333;">
+    Beyond coding, I'm a big reader. One particular book, <strong>"The Structure of Hardware and Software,"</strong> sparked my interest and set me on this incredible path. My book collection is always growing and continues to inspire me.
+</p>
+<p style="font-size: 1.1em; color: #333;">
+    Family is a big deal for me. My <strong>Father</strong>, a dedicated teacher, and my <strong>Mother</strong>, the heart of our home, have played a significant role in shaping my journey and values.
+</p>
+<p style="font-size: 1.1em; color: #333;">
+    As I keep exploring the vast possibilities in the tech world, I'm pumped to connect with other developers, share what I know, and team up on cool projects. If you want to chat or collaborate, feel free to reach out. Let's dive into this coding adventure together! 🚀
+</p>
 
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
