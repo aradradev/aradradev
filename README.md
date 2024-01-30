@@ -83,7 +83,7 @@ As I continue to explore the limitless possibilities in the tech world, I'm exci
 
 |My github statistics|Most used languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=aradradev&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aradradev&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![aradradev](https://github-readme-streak-stats.herokuapp.com/?user=aradradev&theme=dark)
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=aradradev&show_icons=true&theme=dark&hide_title=true)](https://github.com/aradradev)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aradradev&show_icons=true&theme=dark&hide_title=true)](https://github.com/aradradev)|![aradradev](https://github-readme-streak-stats.herokuapp.com/?user=aradradev&theme=dark)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <!-- &layout=compact -->
@@ -241,10 +241,10 @@ As I continue to explore the limitless possibilities in the tech world, I'm exci
 
 |                                                          |                   |                                      |                                                      |                 |                                      |
 | -------------------------------------------------------- | ----------------- | ------------------------------------ | ---------------------------------------------------- | --------------- | ------------------------------------ |
-| ![typescript](./img/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./img/technologies/node.png)                       | Node            | ![80%](https://progress-bar.dev/80/) |
-| ![express](./img/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./img/technologies/nest.png)                       | Nest            | ![80%](https://progress-bar.dev/80/) |
-| ![graphql](./img/technologies/graphql.png)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./img/technologies/typeorm.png)                 | TypeORM         | ![80%](https://progress-bar.dev/80/) |
-| ![prisma](./img/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) | ![sequelize](./img/technologies/sequelize.png)             | Sequelize       | ![80%](https://progress-bar.dev/80/) |
+| ![typescript](./img/technologies/typescript.png)               | TypeScript        | ![60%](https://progress-bar.dev/80/) | ![node](./img/technologies/node.png)                       | Node            | ![80%](https://progress-bar.dev/80/) |
+| ![express](./img/technologies/express.png)                     | Express           | ![60%](https://progress-bar.dev/80/) | ![nest](./img/technologies/nest.png)                       | Nest            | ![80%](https://progress-bar.dev/80/) |
+| ![graphql](./img/technologies/graphql.png)                     | GraphQL           | ![40%](https://progress-bar.dev/80/) | ![typeorm](./img/technologies/typeorm.png)                 | TypeORM         | ![80%](https://progress-bar.dev/80/) |
+| ![prisma](./img/technologies/prisma.png)                       | Prisma            | ![30%](https://progress-bar.dev/80/) | ![sequelize](./img/technologies/sequelize.png)             | Sequelize       | ![80%](https://progress-bar.dev/80/) |
 | ![mongoose](./img/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./img/technologies/postgresql.png)           | PostgreSQL      | ![80%](https://progress-bar.dev/80/) |
 | ![mongodb](./img/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![jest](./img/technologies/jest.png)                       | Jest            | ![80%](https://progress-bar.dev/80/) |
 | ![mocha](./img/technologies/mocha.png)                         | Mocha             | ![80%](https://progress-bar.dev/80/) | ![docker](./img/technologies/docker.png)                   | Docker          | ![60%](https://progress-bar.dev/60/) |
@@ -293,7 +293,6 @@ As I continue to explore the limitless possibilities in the tech world, I'm exci
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/search?q=user+language%3ARuby++&type=code"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-007ACC.svg?logo=ruby&logoColor=white"></a>
 </p>
 <br>
  
@@ -323,7 +322,6 @@ As I continue to explore the limitless possibilities in the tech world, I'm exci
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-    <a href="https://github.com/search?q=user+language%3ARuby+&type=code"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-007ACC.svg?logo=ruby&logoColor=white"></a>
 <a href="https://github.com/search?q=user+language%3ARuby+on+Rails&type=code"><img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white"></a>
 
 </p>
@@ -599,7 +597,7 @@ As I continue to explore the limitless possibilities in the tech world, I'm exci
   <p align="center">
   <h2 align="center">Contact Me </h2>
   <h2>My Website</h2>
-  <a href="https://aradradev.github.io/abdulsportfolio/" target="_blank">
+  <a href="https://abdoul-jalloh.netlify.app/" target="_blank">
     <img align="left" alt="Jalloh Abdourahmane | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
    </a>
    <a href="https://medium.com/@aradradev" target="_blank">
