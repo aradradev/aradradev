@@ -20,9 +20,9 @@
    <div align="center">
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
   </div>
-   <h2 align="center">I am Jalloh Abdourahmane✨</h2> -->
+   <h2 align="center">I am Abdourahmane Jalloh✨</h2> -->
   <p style="font-size: 1.1em; color: #333;">
-    Hey there! 👋 I'm <strong>Jalloh Abdourahmane</strong>, originally from the beautiful landscapes of Guinea 🇬🇳. I'm really into <span style="color: #e44d26;">software development</span>, with a special focus on <span style="color: #61dafb;">JavaScript</span>, <span style="color: #61dafb;">React</span>, <span style="color: #cc342d;">Ruby</span>, and <span style="color: #cc342d;">Ruby on Rails</span>.
+    Hey there! 👋 I'm <strong>Abdourahmane Jalloh</strong>, originally from the beautiful landscapes of Guinea 🇬🇳. I'm really into <span style="color: #e44d26;">software development</span>, with a special focus on <span style="color: #61dafb;">JavaScript</span>, <span style="color: #61dafb;">React</span>, <span style="color: #cc342d;">Ruby</span>, and <span style="color: #cc342d;">Ruby on Rails</span>.
 </p>
 <p style="font-size: 1.1em; color: #333;">
     In my coding journey, I've had a blast working on projects like <strong>Recipe-app</strong>, <strong>Budget-app</strong>, and a <strong>Car-renting platform</strong>. These projects weren't just about code; they were collaborations with developers from around the world, and that's what keeps my excitement alive.
@@ -34,7 +34,7 @@
     Family is a big deal for me. My <strong>Father</strong>, a dedicated teacher, and my <strong>Mother</strong>, the heart of our home, have played a significant role in shaping my journey and values.
 </p>
 <p style="font-size: 1.1em; color: #333;">
-    As I keep exploring the vast possibilities in the tech world, I'm pumped to connect with other developers, share what I know, and team up on cool projects. If you want to chat or collaborate, feel free to reach out. Let's dive into this coding adventure together! 🚀
+    As I keep exploring the vast possibilities in the tech world, I'm pumped to connect with other developers, share what I know, and team up on cool projects. If you would like to chat or collaborate, please feel free to reach out. Let's dive into this coding adventure together!
 </p>
 
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
@@ -52,7 +52,10 @@
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{aradradev}/count.svg" /></p> 
-<br>
+<be>
+<p align="center">
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+</p>
 </div>
 
 <div align="center">
