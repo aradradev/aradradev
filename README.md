@@ -78,7 +78,7 @@
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aradradev&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aradradev&theme=tokyonight&margin-w=40&margin-h=40)](https://github.com/aradradev)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END My Github Profile Trophy SECTION -->
