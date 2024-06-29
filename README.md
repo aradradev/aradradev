@@ -84,8 +84,6 @@
 <!-- END My Github Profile Trophy SECTION -->
 
 
-
-
 <!-- START NEW SECTION -->
 <p align="center">
  <h2 align="center">My Github Stats</h2>
